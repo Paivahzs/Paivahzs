@@ -2,12 +2,13 @@
 
 Meu nome e Joao Vitor
 
-Estou estudando na Alura
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e
+compartilhamento dos meus projetos desenvolvidos
 
 
-Estou desenvolvendo na linguagem JavaScript
-
-![Abel GIF![image]![image](https://github.com/user-attachments/assets/d9cc39a2-38d8-4319-99c8-ab4e13ceb33a)
+![Abel GIF![image]![image]![image](https://github.com/user-attachments/assets/09e98bfd-e80f-40a6-82c1-92ee93d9ccaf)
 
 
 
