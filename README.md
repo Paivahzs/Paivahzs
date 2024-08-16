@@ -7,8 +7,7 @@ Estou estudando na Alura
 
 Estou desenvolvendo na linguagem JavaScript
 
-![Abel GIF![image](https://github.com/user-attachments/assets/d6663f16-422d-4b26-a4c6-07f62d3e038a)
+![Abel GIF![image]![image](https://github.com/user-attachments/assets/d9cc39a2-38d8-4319-99c8-ab4e13ceb33a)
 
 
 
-Estou estudando na [Alura](https://www.alura.com.br)
