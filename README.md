@@ -8,7 +8,10 @@ Meu nome e Joao Vitor
 compartilhamento dos meus projetos desenvolvidos
 
 
-![]![image](https://media1.tenor.com/m/6xveGewy1kUAAAAd/yuri22.gif)
+![]![image](https://media1.tenor.com/m/6xveGewy1kUAAAAd/yuri22.gif)  ![]![image](https://media1.tenor.com/m/sd3RjFavlnkAAAAC/joker.gif)
+
+
+
 
 
 
